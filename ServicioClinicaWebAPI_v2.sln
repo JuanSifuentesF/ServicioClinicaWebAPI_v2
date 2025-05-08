@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClinicaWebAPI_v2", "ClinicaWebAPI_v2\ClinicaWebAPI_v2.csproj", "{02600FBF-1962-46B8-9DAB-44BFBCC90DED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{02600FBF-1962-46B8-9DAB-44BFBCC90DED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02600FBF-1962-46B8-9DAB-44BFBCC90DED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02600FBF-1962-46B8-9DAB-44BFBCC90DED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02600FBF-1962-46B8-9DAB-44BFBCC90DED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {11DF0E00-B5ED-4372-B573-9434FBCD7E19}
+	EndGlobalSection
+EndGlobal
